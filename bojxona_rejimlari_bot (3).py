@@ -16,14 +16,14 @@ logger = logging.getLogger(__name__)
 # O'zgartirish kerak bo'lgan asosiy sozlamalar - 1-QADAM
 ##############################################
 # BotFather bergan tokenni kiriting
-BOT_TOKEN = "7894291414:AAFB_CuuxsbjRkYfJzA4p28P6zJSUwmM4kg"
+BOT_TOKEN = "YOUR_BOT_TOKEN"
 
 # Kanal ID si yoki username - @ bilan
-CHANNEL_ID = "@trueway111"
+CHANNEL_ID = "@YOUR_CHANNEL_NAME"
 
 # Admin ID raqamini kiriting (@userinfobot orqali aniqlay olasiz)
 ADMIN_USERS = [
-    2138769604,  # O'z Telegram ID raqamingizni kiriting
+    YOUR_ID,  # O'z Telegram ID raqamingizni kiriting
 ]
 
 # Admin parol
